@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">## Olá, eu sou Eliu Rodrigues, estudante de Engenharia de Software com foco em desenvolvimento backend.</h2>
+<h2 data-importer="text" align="left"> Olá, eu sou Eliu Rodrigues, estudante de Engenharia de Software com foco em desenvolvimento backend.</h2>
 
 ###
 

@@ -1,8 +1,15 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 data-importer="text" align="center">Olá, eu sou Eliu Rodrigues, estudante de Engenharia de Software com foco em desenvolvimento backend.</h2>
 
 ###
 
-<p data-importer="text" align="center">Atualmente, estou aprimorando meus conhecimentos em desenvolvimento backend e construindo APIs usando Java e Spring Boot, além de desenvolver habilidades em AWS.</p>
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/EliuRodrigues/EliuRodrigues/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/EliuRodrigues/EliuRodrigues/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<p data-importer="text" align="left">Atualmente, estou aprimorando meus conhecimentos em desenvolvimento backend e construindo APIs usando Java e Spring Boot, além de desenvolver habilidades em AWS.</p>
 
 ###
 
